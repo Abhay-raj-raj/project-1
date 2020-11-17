@@ -1,0 +1,12 @@
+              Accuracy from different Models
+1. RandomForest Regressor
+            score: 0.88
+            rmse: 2.4
+2. Linear Regression
+            score: 0.75
+            rmse: 3.54
+3. DecisionTree Regressor
+            score: 0.73
+            rmse: 3.68
+            
+   
